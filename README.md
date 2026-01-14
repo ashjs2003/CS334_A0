@@ -18,10 +18,9 @@ Below is a recorded run of the simulation showing:
 - Resource competition
 - Wealth divergence over time
 
-<video src="simulation.avi" controls width="800"></video>
+https://github.com/user-attachments/assets/60431a3f-82a7-442f-a52c-58c507dfbb38
 
-> If the video does not play directly in your browser,  
-> [download the video here](simulation.mp4).
+
 
 ---
 
