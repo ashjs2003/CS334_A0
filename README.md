@@ -21,7 +21,7 @@ Below is a recorded run of the simulation showing:
 <video src="simulation.avi" controls width="800"></video>
 
 > If the video does not play directly in your browser,  
-> [download the video here](simulation.avi).
+> [download the video here](simulation.mp4).
 
 ---
 
